@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\csdl",
+    "\\prj2",
+    "\\prj2\\packages",
+    "\\prj2\\project2",
+    "\\prj2\\project2\\Business",
+    "\\prj2\\project2\\DataAccess",
+    "\\prj2\\project2\\Entities"
+  ],
+  "SelectedNode": "\\prj2\\project2\\DataAccess\\DataAccessHelper.cs",
+  "PreviewInSolutionExplorer": false
+}
